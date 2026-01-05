@@ -5,10 +5,7 @@ This repository contains an **Online Job Bank Database Management System** devel
 
 The backend is implemented using a **BCNF-normalized relational database**, ensuring data integrity, consistency, and minimal redundancy. The frontend consists of a **Java-based graphical user interface (GUI)** that allows users to interact with the database intuitively. This project was developed as part of a **Relational Database Systems** course and demonstrates key database concepts such as entity-relationship modeling, schema design, functional dependencies, normalization (3NF and BCNF), SQL querying, and relational algebra.
 
-A detailed project report accompanies the implementation, outlining the system’s conceptual design, logical schema, normalization process, SQL implementation, supported queries, user guide, and relational algebra for the queries.
-
-## Project Report
-📄 [View the full project report](cps510-database-a9/Online%20Job%20Bank%20DBMS%20Report.pdf)
+A [detailed project report](cps510-database-a9/Online%20Job%20Bank%20DBMS%20Report.pdf) accompanies the implementation, outlining the system’s conceptual design, logical schema, normalization process, SQL implementation, supported queries, user guide, and relational algebra for the queries.
 
 ## Features
 - Job search and filtering
