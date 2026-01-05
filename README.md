@@ -8,7 +8,7 @@ The backend is implemented using a **BCNF-normalized relational database**, ensu
 A detailed project report accompanies the implementation, outlining the system’s conceptual design, logical schema, normalization process, SQL implementation, supported queries, user guide, and relational algebra for the queries.
 
 ## Project Report
-📄 [View the full project report](cps510-database-a9/Online Job Bank DBMS Report.pdf)
+📄 [View the full project report]([cps510-database-a9/Online Job Bank DBMS Report.pdf](https://github.com/AbiJ17/Online_Job_Bank_DBMS/blob/main/cps510-database-a9/Online%20Job%20Bank%20DBMS%20Report.pdf))
 
 ## Features
 - Job search and filtering
